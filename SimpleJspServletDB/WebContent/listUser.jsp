@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>hi</title>
+<title>hi wellcom</title>
 </head>
 <body>
     <table border=1>
